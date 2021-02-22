@@ -12,6 +12,8 @@ git branch => lister les branches
 git checkout <branche> => se déplacer sur une branche existante
 git checkout -b <branche> => crée et se déplace sur une nouvelle branche
 
+git status => donne l'état de la branche actuelle
+
 git pull => vient récupérer les changements depuis le remote sur le local
 
 #commits
