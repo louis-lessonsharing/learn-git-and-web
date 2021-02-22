@@ -8,7 +8,7 @@ git fetch => récupère un maximum d'infos du dépôts (branches)
 
 #branches
 
-git branch => lister les branches
+git branch => lister les branches et affiche la courante
 
 git checkout <branche> => se déplacer sur une branche existante
 
